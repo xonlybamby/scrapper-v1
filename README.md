@@ -31,7 +31,7 @@ Primera version del scrapper - xonlybamby
 # instalacion
 ```
 pip install -r requirements
-pip -m beta.py
+python -m beta.py
 ```
 
 
