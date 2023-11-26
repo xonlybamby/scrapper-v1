@@ -27,3 +27,8 @@ Primera version del scrapper - xonlybamby
 ![photo_2023-11-25_19-47-55](https://github.com/xonlybamby/scrapper-v1/assets/93606292/2607e538-5475-4232-80cd-ad8d829fc839)
 
  * OJO el numero que ingresaste en el my.telegram.org tiene que ser el administrador del grupo para poder enviar lo scrapeado
+
+# Autor
+
+* bamby - @xonlybamby
+& dd
