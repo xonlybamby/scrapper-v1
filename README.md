@@ -31,4 +31,4 @@ Primera version del scrapper - xonlybamby
 # Autor
 
 * bamby - @xonlybamby
-& dd
+& [dd]
