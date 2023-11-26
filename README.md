@@ -3,7 +3,7 @@
 Primera version del scrapper - xonlybamby
 
 # Deployment
-* Download https://www.python.org/downloads/
+* Download  [Python](https://www.python.org/downloads/)
 * Despues de descargarla instalala con la opcion path activada
 
 
@@ -30,5 +30,4 @@ Primera version del scrapper - xonlybamby
 
 # Autor
 
-* bamby - @xonlybamby
-& [dd]
+* bamby - [xonlybamby](https://t.me/xonlybamby/)
