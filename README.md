@@ -36,5 +36,4 @@ python -m beta.py
 
 
 # Autor
-
-* > [xonlybamby](https://t.me/xonlybamby/)
+> [xonlybamby](https://t.me/xonlybamby/)
