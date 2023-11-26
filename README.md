@@ -1,6 +1,6 @@
 # Welcome
 
-Primera version del scrapper - xonlybamby
+> Primera version del scrapper - xonlybamby
 
 # Deployment
 > Download  [Python](https://www.python.org/downloads/)
@@ -9,7 +9,7 @@ Primera version del scrapper - xonlybamby
 
 # Deployment 
 
-* Ve a [Telegram](https://my.telegram.org/auth) y crea una app para usarla en el codigo 
+> Ve a [Telegram](https://my.telegram.org/auth) y crea una app para usarla en el codigo 
 
  
 ![photo_2023-11-25_19-48-00](https://github.com/xonlybamby/scrapper-v1/assets/93606292/f238604e-8d94-4324-9fec-e637fd2e17d5)
