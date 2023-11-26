@@ -3,8 +3,8 @@
 Primera version del scrapper - xonlybamby
 
 # Deployment
-* Download  [Python](https://www.python.org/downloads/)
-* Despues de descargarla instalala con la opcion path activada
+> Download  [Python](https://www.python.org/downloads/)
+> Despues de descargarla instalala con la opcion path activada
 
 
 # Deployment 
