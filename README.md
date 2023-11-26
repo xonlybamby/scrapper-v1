@@ -28,6 +28,13 @@ Primera version del scrapper - xonlybamby
 
   > OJO el numero que ingresaste en el my.telegram.org tiene que ser el administrador del grupo para poder enviar lo scrapeado
 
+# instalacion
+```
+pip install -r requirements
+pip -m beta.py
+```
+
+
 # Autor
 
 * > [xonlybamby](https://t.me/xonlybamby/)
