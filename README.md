@@ -9,7 +9,7 @@ Despues de descargarla instalala con la opcion path activada
 
 # Deployment 
 
-Ve a my.telegram.org y crea una app para usarla en el codigo 
+* Ve a my.telegram.org y crea una app para usarla en el codigo 
 
  
 ![photo_2023-11-25_19-48-00](https://github.com/xonlybamby/scrapper-v1/assets/93606292/f238604e-8d94-4324-9fec-e637fd2e17d5)
