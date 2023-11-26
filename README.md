@@ -1,3 +1,6 @@
-# scrapper-v1
+# Welcome
 
-v1
+Primera version del scrapper - xonlybamby
+
+# Deployment
+Download https://www.python.org/downloads/
